@@ -1,5 +1,4 @@
-# FNP-Sales-Dataset
-# 📊 Sales Analysis Dashboard | Excel
+# 📊 FNP Sales Analysis Dashboard | Excel
 
 ## Overview
 
