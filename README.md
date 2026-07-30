@@ -128,21 +128,11 @@ The dashboard enables users to:
 
 ## Dashboard Preview
 
-images/
-├── dashboard-overview.png
-├── dashboard-birthday-filter.png
-└── dashboard-all-occasions.png
-
-### Main Dashboard
-
 ![Dashboard Overview](images/FNP - Sales Analysis - Dashboard Overview.png)
 
 ### Birthday Sales Analysis
 
 ![Birthday Dashboard](images/dashboard-birthday-filter.png)
-
-
-<img width="1271" height="541" alt="image" src="https://github.com/user-attachments/assets/9cae462a-1a10-48e7-ab62-20f1aeafdfed" />
 
 ---
 
