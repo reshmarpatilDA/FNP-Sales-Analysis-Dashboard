@@ -150,12 +150,12 @@ The dashboard enables users to:
 ## Repository Structure
 
 ```text
-Sales-Analysis-Dashboard/
-│
-├── README.md
-├── Dashboard_Screenshot.png
-├── Dashboard.xlsx (Optional)
-└── FNP_Sales_Dataset.xlsx (Optional)
+FNP-Sales-Analysis-Dashboard/
+│── README.md
+│── images/
+│     ├── dashboard-overview.png
+│     ├── dashboard-birthday-filter.png
+│     └── dashboard-all-occasions.png
 ```
 
 ---
