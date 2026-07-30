@@ -128,7 +128,7 @@ The dashboard enables users to:
 
 ## Dashboard Preview
 
-![Dashboard Overview](images/FNP - Sales Analysis - Dashboard Overview.png)
+![Dashboard Overview](images/FNP_Sales_Analysis_Dashboard_Overview.png)
 
 ### Birthday Sales Analysis
 
