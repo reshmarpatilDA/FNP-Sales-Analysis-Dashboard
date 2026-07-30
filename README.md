@@ -155,7 +155,6 @@ FNP-Sales-Analysis-Dashboard/
 │── images/
 │     ├── dashboard-overview.png
 │     ├── dashboard-birthday-filter.png
-│     └── dashboard-all-occasions.png
 ```
 
 ---
