@@ -1,5 +1,10 @@
 # 📊 FNP Sales Analysis Dashboard | Excel
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-yellow)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-Data%20Modeling-blue)
+
 ## Overview
 
 This project is an interactive **Sales Analysis Dashboard** built in **Microsoft Excel** using the **FNP Sales Dataset**. The dashboard provides insights into sales performance, customer purchasing behavior, product performance, and order trends through interactive visualizations and KPI reporting.
